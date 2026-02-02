@@ -1,0 +1,8 @@
+## Interface: 20505
+## Title: MageArmorTracker
+## Notes: Displays an icon for Mage Armor or Ice Armor to the left of ResourceDisplay. Shows remaining time when under 5 minutes. Shows a no-armor icon when neither is active.
+## Author: Bryce-Ault
+## Version: 1.0.0
+## Dependencies: ResourceDisplay
+
+MageArmorTracker.lua
